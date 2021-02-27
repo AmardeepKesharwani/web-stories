@@ -97,6 +97,7 @@ img {
   color: #fff;
   width: 100%;
   padding: 20px;
+  margin-bottom:1rem;
   background: rgba(0, 0, 0, 0.6);
   user-select: none;
 }
